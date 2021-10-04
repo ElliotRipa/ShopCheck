@@ -1,5 +1,5 @@
 # ShopCheck
-This program lets you input a city and suggests what food you should serve if you want to start a restaurant there.
+This program lets you input a city and suggests what food you should serve if you want to start a restaurant there based on the weather and temperature.
 
 There are two ways to run this file. The first is to simply download the executable file shopcheck.exe.
 The second involves downloading shopcheck.py and running this via the command prompt. This does require installing both Python, and the Requests library.
