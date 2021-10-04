@@ -10,4 +10,4 @@ Once these are installed you navigate your way to the directory where you downlo
 When you run the program, it will ask you to name a city or town. Once you have done this, it will print some helpful tips for your restaurant.
 
 The Python file will then finish the process while keeping the text in the prompt.
-The Executable will remain open until you exit the window, or input anything.
+The Executable will remain open until you exit the window, or hit enter.
